@@ -1,0 +1,9 @@
+﻿  Book.cpp
+  Library.cpp
+  main.cpp
+     Creating library C:\Users\ADMIN\source\repos\Home_Library\x64\Release\Home_Library.lib and object C:\Users\ADMIN\source\repos\Home_Library\x64\Release\Home_Library.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 664 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Home_Library.vcxproj -> C:\Users\ADMIN\source\repos\Home_Library\x64\Release\Home_Library.exe
